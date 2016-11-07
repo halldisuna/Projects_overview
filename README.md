@@ -1,22 +1,22 @@
 # Projects
 Projects overview
 
+
+###bla
 ## Forritun
-- [ ] D1
-- [ ] D2
-- [ ] D3
-- [ ] D4
-- [ ] D5
-- [ ] D6
-- [ ] D7
-- [ ] D8
-- [ ] D9a
-- [ ] D9b
-- [ ] S1
-- [ ] S2
-- [ ] S3
-- [ ] H1
-- [ ] H2
+- [ ] D1 - A + B, Gæsalappir, Halló heimur, Svarið
+- [ ] D2 - Babylonian algorithm, Samanburður, Sum of positive
+- [ ] D3 - Timer, Fibonacci, prime numbers
+- [ ] D4 - Hlaupaár, Too heavy, Range sum
+- [ ] D5 -  intlist
+- [ ] D6 - Finna hæstu, flatarmál hirngs, samaburður
+- [ ] D7 - WordCount
+- [ ] D8 - Strlen, Strlen3, hækkandi röð
+- [ ] D9a - fraction
+- [ ] D9b - Hringur, stafur í streng, tala nr i
+- [ ] S1 - BMI, Deiling, Myntir
+- [ ] S2 - Standard dev, galdraferningur, hækkandi röð
+- [ ] S3 - loan.cpp
 
 ## Inngangur að tölvunarfræði
 - [ ] D1
