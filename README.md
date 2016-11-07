@@ -1,7 +1,9 @@
 # Projects
-## 
+##Javascript
+[Flappybird](https://github.com/halldisuna/Flappybird)
 
-# Coming soon
+
+# Coming soon / unfinished
 
 ## .net angular app
 ## MEAN stack app
@@ -64,9 +66,10 @@
 - [ ] S4 - wordnet
 
 ### Hagnýt gæðastjórnun og prófanir
-- [ ] P - tic tac toe
+- [x] [TicTacToe](https://github.com/halldisuna/TicTacToe)
+
 ### Hönnun og smíði hugbúnaðar
-- [ ] D4 - rufan
+- [x] [Rufan](https://github.com/halldisuna/RuFan)
 
 ### Hugbúnaðarfræði
 - [ ] D2 - TDD
@@ -186,3 +189,4 @@
 - [ ] D9
 - [ ] D10
 - [ ] D11
+- [X] [Punchy](https://github.com/halldisuna/Punchy)
