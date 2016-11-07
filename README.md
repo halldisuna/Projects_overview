@@ -2,8 +2,8 @@
 Projects overview
 
 
-###bla
-## Forritun
+## C++
+### Forritun
 - [ ] D1 - A + B, Gæsalappir, Halló heimur, Svarið
 - [ ] D2 - Babylonian algorithm, Samanburður, Sum of positive
 - [ ] D3 - Timer, Fibonacci, prime numbers
@@ -18,7 +18,14 @@ Projects overview
 - [ ] S2 - Standard dev, galdraferningur, hækkandi röð
 - [ ] S3 - loan.cpp
 
-## Inngangur að tölvunarfræði
+## C
+## C#
+## Java
+## Python
+## Javascript
+## SQL
+
+### Inngangur að tölvunarfræði
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -30,7 +37,7 @@ Projects overview
 - [ ] D9
 - [ ] D10
 
-## Tölvuhögun
+### Tölvuhögun
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -38,7 +45,7 @@ Projects overview
 - [ ] S1
 - [ ] S2
 
-## Verkefnalausnir
+### Verkefnalausnir
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -65,7 +72,7 @@ Projects overview
 - [ ] S10
 
 
-## Gagnaskipan
+### Gagnaskipan
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -89,7 +96,7 @@ Projects overview
 - [ ] A4
 - [ ] A5
 
-## Vefforritun
+### Vefforritun
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -103,10 +110,10 @@ Projects overview
 - [ ] S4
 - [ ] S5
 
-## Verklegt námskeið
+### Verklegt námskeið
 - [ ] P
 
-## Gagnasafnsfræði
+### Gagnasafnsfræði
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -125,13 +132,13 @@ Projects overview
 - [ ] S4
 - [ ] S5
 
-## Hugbúnaðarfræði
+### Hugbúnaðarfræði
 - [ ] D1
 - [ ] D2
 - [ ] S1
 - [ ] S2
 
-## Stærðfræðileg Forritun
+### Stærðfræðileg Forritun
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -144,7 +151,7 @@ Projects overview
 - [ ] S4
 - [ ] L
 
-## Forritunarmálið Python
+### Forritunarmálið Python
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -154,22 +161,22 @@ Projects overview
 - [ ] A2
 - [ ] L
 
-## Kerfisstjórnun
+### Kerfisstjórnun
 - [ ] D1
 - [ ] D2
 - [ ] D3
 - [ ] D4
 
-## Hagnýt gæðastjórnun og prófanir
+### Hagnýt gæðastjórnun og prófanir
 - [ ] P
 
-## Hönnun og smíði hugbúnaðar
+### Hönnun og smíði hugbúnaðar
 - [ ] D1
 - [ ] D2
 - [ ] D3
 - [ ] D4
 
-## Reiknirit
+### Reiknirit
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -183,7 +190,7 @@ Projects overview
 - [ ] S3
 - [ ] S4
 
-## Tölvusamskipti
+### Tölvusamskipti
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -195,7 +202,7 @@ Projects overview
 - [ ] S2
 - [ ] S3
 
-## Forritunarmál
+### Forritunarmál
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -213,7 +220,7 @@ Projects overview
 - [ ] S4
 - [ ] S5
 
-## Grunnatriði stýrikerfa
+### Grunnatriði stýrikerfa
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -222,10 +229,10 @@ Projects overview
 - [ ] F2
 - [ ] F3
 
-## Lokaverkefni
+### Lokaverkefni
 - [ ] P
 
-## Vefforritun 2
+### Vefforritun 2
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -236,7 +243,7 @@ Projects overview
 - [ ] D8
 - [ ] D9
 
-## Viðskiptagreind
+### Viðskiptagreind
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -245,7 +252,7 @@ Projects overview
 - [ ] S2
 - [ ] S3
 
-## Hagnýt forritun
+### Hagnýt forritun
 - [ ] D1
 - [ ] D2
 - [ ] D3
@@ -253,7 +260,7 @@ Projects overview
 - [ ] D5
 - [ ] S1
 
-## Vefþjónustur
+### Vefþjónustur
 - [ ] D1
 - [ ] D2
 - [ ] D3
