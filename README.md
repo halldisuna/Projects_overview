@@ -1,9 +1,11 @@
-# Starter Projects
+# Projects
+## 
+
+# Coming soon
+
 ## .net angular app
 ## MEAN stack app
 ## LaTeX starter
-
-# School Projects
 
 ## C++
 ### Forritun
