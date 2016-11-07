@@ -66,7 +66,7 @@
 - [ ] S4 - wordnet
 
 ### Hagnýt gæðastjórnun og prófanir
-- [x] [TicTacToe](https://github.com/halldisuna/TicTacToe)
+- [x] [Rufan](https://github.com/halldisuna/TicTacToe)
 
 ### Hönnun og smíði hugbúnaðar
 - [x] [Rufan](https://github.com/halldisuna/RuFan)
@@ -189,4 +189,4 @@
 - [ ] D9
 - [ ] D10
 - [ ] D11
-- [X] [Punchy](https://github.com/halldisuna/Punchy)
+- [x] [Punchy](https://github.com/halldisuna/Punchy)
